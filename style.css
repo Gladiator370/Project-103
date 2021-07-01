@@ -1,0 +1,25 @@
+.heading {
+    width: 60%;
+font-size: 25px;
+}
+body {
+    background-color:lawngreen;
+}
+.Things {
+    color: rgb(22, 6, 245);
+    font-size: 20px;
+}
+#camera {
+    border: rgb(248, 25, 9);
+    border-width: 3px;
+    border-style:groove;
+    width: 350px;
+    height: 350px;
+}
+#result {
+    border: rgb(248, 25, 9);
+    border-width: 3px;
+    border-style:groove;
+    width: 350px;
+    height: 350px;
+}
